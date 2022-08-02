@@ -1,4 +1,4 @@
 #!/bin/sh
 . ~/.dod
 
-package install vim
+package install vim cryptsetup
